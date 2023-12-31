@@ -20,7 +20,7 @@ import javax.swing.border.EmptyBorder;
 
 public class Bestenliste extends JPanel
 
-{
+{//test boiiiiiiiiiiiii
 	/**
 	 * 
 	 */
