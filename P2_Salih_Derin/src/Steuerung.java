@@ -1,4 +1,4 @@
-//Test Ingo0815
+//Test Ingo08150  815
 
 public class Steuerung
 { private Spielkonsole spielkonsole;
